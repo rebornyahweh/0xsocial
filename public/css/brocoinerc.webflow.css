@@ -953,6 +953,7 @@ figcaption {
   border-radius: 12px;
   transition-duration: 0.4s;
   cursor: pointer;
+  position: relative;
 }
 
 .btn-icon-text-wrapper:hover {
@@ -1138,7 +1139,7 @@ figcaption {
   mix-blend-mode: normal;
   border-radius: 500em;
   margin-top: 50px;
-  margin-left:300px;
+  margin-left:138px;
 }
 
 .scroller-component {
