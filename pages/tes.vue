@@ -12,7 +12,6 @@
               <a href="index.html#chart" class="nav-link w-nav-link">Chart</a>
               <a href="index.html#" class="button-secondary nave w-inline-block">
                 <div class="button button1">
-                  <div>Dapps</div><img src="images/Vector.svg" loading="lazy" alt="" class="image">
                 </div>
               </a>
             </nav>
