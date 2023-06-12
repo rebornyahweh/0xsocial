@@ -953,7 +953,7 @@ figcaption {
   border-radius: 12px;
   transition-duration: 0.4s;
   cursor: pointer;
-  position: relative;
+  position:static;
 }
 
 .btn-icon-text-wrapper:hover {
