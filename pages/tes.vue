@@ -86,8 +86,8 @@ const data = ref({
 
 const prefillDemoData = () => {
   data.value = {
-    n: "John Snow",
-    d: "I’m John Snow, the king in the north. I know Nothing.",
+    n: "Elon Musk",
+    d: "I’m Elon Musk, the most Riches man, also the pro memer.",
     i: "https://i.insider.com/56743fad72f2c12a008b6cc0",
     f: "https://www.facebook.com/john_snow",
     t: "https://twitter.com/john_snow",
